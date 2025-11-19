@@ -1,0 +1,3 @@
+gdow
+pandas
+subprocess
